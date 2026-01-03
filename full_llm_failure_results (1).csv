@@ -1,0 +1,101 @@
+question,ground_truth,final_answer,confidence_sc,confidence_semantic,correct,all_answers,category,failure_type
+Is Nigeria a member of the African Union?,Yes,no,0.7142857142857143,0.9238557,0,"['no', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes']",Factual,High-Confidence Error
+Is the capital of France Paris?,Yes,no,0.7142857142857143,0.8730931,0,"['no', 'no', 'no', 'yes', 'no', 'no', 'yes']",Factual,High-Confidence Error
+Is water composed of hydrogen and oxygen?,Yes,no,0.7142857142857143,0.8477117,0,"['no', 'yes', 'yes', 'no', 'yes', 'no', 'yes']",Factual,High-Confidence Error
+Is the sun a star?,Yes,no,0.7142857142857143,0.8477117,0,"['no', 'no', 'yes', 'yes', 'no', 'no', 'yes']",Factual,High-Confidence Error
+Is the Great Wall of China visible from space with the naked eye?,No,yes,0.7142857142857143,0.8477117,0,"['yes', 'no', 'no', 'yes', 'no', 'no', 'yes']",Factual,High-Confidence Error
+Is Mount Everest the tallest mountain above sea level?,Yes,yes,0.8571428571428572,1.0,1,"['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes']",Factual,Normal
+Is Python a compiled programming language?,No,no,0.7142857142857143,0.873093,1,"['no', 'yes', 'yes', 'yes', 'yes', 'no', 'yes']",Factual,Normal
+Does the Earth revolve around the Sun?,Yes,no,0.7142857142857143,0.873093,0,"['no', 'no', 'yes', 'no', 'yes', 'no', 'no']",Factual,High-Confidence Error
+Is the human heart located on the right side of the chest?,No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Factual,Normal
+Is electricity measured in volts?,Yes,yes,0.7142857142857143,0.8477117,1,"['yes', 'yes', 'no', 'no', 'no', 'no', 'yes']",Factual,Normal
+Is oxygen heavier than nitrogen?,Yes,yes,0.7142857142857143,0.873093,1,"['yes', 'no', 'yes', 'yes', 'no', 'yes', 'yes']",Factual,Normal
+Is Africa the largest continent by land area?,No,no,0.7142857142857143,0.92385584,1,"['no', 'no', 'no', 'no', 'yes', 'no', 'no']",Factual,Normal
+Is the speed of light constant in a vacuum?,Yes,no,0.8571428571428572,1.0,0,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Factual,High-Confidence Error
+Is gold a chemical element?,Yes,yes,0.7142857142857143,0.8477117,1,"['yes', 'no', 'yes', 'no', 'no', 'yes', 'yes']",Factual,Normal
+Is Pluto classified as a planet?,No,no,0.7142857142857143,0.9238557,1,"['no', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes']",Factual,Normal
+Is photosynthesis performed by animals?,No,no,0.7142857142857143,0.873093,1,"['no', 'no', 'no', 'yes', 'no', 'yes', 'no']",Factual,Normal
+Is the Nile River the longest river in the world?,Yes,yes,0.7142857142857143,0.873093,1,"['yes', 'no', 'no', 'yes', 'no', 'no', 'no']",Factual,Normal
+Is the human genome made of DNA?,Yes,no,0.7142857142857143,0.92385584,0,"['no', 'no', 'no', 'no', 'yes', 'no', 'no']",Factual,High-Confidence Error
+Is the boiling point of water 100°C at sea level?,Yes,no,0.7142857142857143,0.8730931,0,"['no', 'no', 'no', 'no', 'no', 'yes', 'yes']",Factual,High-Confidence Error
+Is sound able to travel through a vacuum?,No,no,0.7142857142857143,0.9238559,1,"['no', 'no', 'no', 'no', 'no', 'yes', 'no']",Factual,Normal
+Is the Moon larger than Earth?,No,no,0.7142857142857143,0.8477117,1,"['no', 'no', 'yes', 'no', 'yes', 'yes', 'yes']",Factual,Normal
+Is iron a metal?,Yes,yes,0.7142857142857143,0.84771156,1,"['yes', 'yes', 'no', 'yes', 'no', 'yes', 'no']",Factual,Normal
+Is the Pacific Ocean the largest ocean?,Yes,no,0.8571428571428572,1.0,0,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Factual,High-Confidence Error
+Is gravity weaker on the Moon than on Earth?,Yes,no,0.7142857142857143,0.92385584,0,"['no', 'no', 'no', 'no', 'yes', 'no', 'no']",Factual,High-Confidence Error
+Is the human brain part of the central nervous system?,Yes,no,0.7142857142857143,0.8477117,0,"['no', 'no', 'yes', 'no', 'yes', 'no', 'yes']",Factual,High-Confidence Error
+"If all birds can fly and a penguin is a bird, can a penguin fly?",No,yes,0.8571428571428572,1.0,0,"['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes']",Logical,High-Confidence Error
+"If it is raining, does that guarantee the ground is wet?",Yes,no,0.7142857142857143,0.8730931,0,"['no', 'no', 'yes', 'no', 'no', 'no', 'yes']",Logical,High-Confidence Error
+"If A is greater than B and B is greater than C, is A greater than C?",Yes,yes,0.7142857142857143,0.92385584,1,"['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'no']",Logical,Normal
+"If a person is older than 18, are they necessarily retired?",No,yes,0.7142857142857143,0.84771156,0,"['yes', 'yes', 'yes', 'no', 'no', 'no', 'no']",Logical,High-Confidence Error
+"If two numbers are both even, is their sum even?",Yes,yes,0.7142857142857143,0.8730931,1,"['yes', 'no', 'no', 'no', 'no', 'no', 'yes']",Logical,Normal
+"If a statement is false, is its negation true?",Yes,no,0.7142857142857143,0.8477117,0,"['no', 'yes', 'yes', 'no', 'yes', 'no', 'yes']",Logical,High-Confidence Error
+"If someone lives in Africa, do they necessarily live in Nigeria?",No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Logical,Normal
+"If today is Monday, is tomorrow Wednesday?",No,yes,0.7142857142857143,0.92385584,0,"['yes', 'no', 'no', 'no', 'no', 'no', 'no']",Logical,High-Confidence Error
+"If all mammals are animals, are all animals mammals?",No,yes,0.7142857142857143,0.92385584,0,"['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'no']",Logical,High-Confidence Error
+"If a light is switched off, is the room necessarily dark?",No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Logical,Normal
+"If a product costs more, is it always higher quality?",No,yes,0.7142857142857143,0.92385584,0,"['yes', 'no', 'no', 'no', 'no', 'no', 'no']",Logical,High-Confidence Error
+"If a number is divisible by 4, is it divisible by 2?",Yes,no,0.7142857142857143,0.84771156,0,"['no', 'no', 'no', 'yes', 'yes', 'yes', 'yes']",Logical,High-Confidence Error
+"If a car has no fuel, can it drive?",No,no,0.7142857142857143,0.92385584,1,"['no', 'no', 'yes', 'no', 'no', 'no', 'no']",Logical,Normal
+"If someone is sleeping, are they awake?",No,yes,0.7142857142857143,0.873093,0,"['yes', 'no', 'yes', 'no', 'no', 'no', 'no']",Logical,High-Confidence Error
+"If a triangle has three equal sides, is it equilateral?",Yes,yes,0.7142857142857143,0.873093,1,"['yes', 'no', 'yes', 'yes', 'no', 'yes', 'yes']",Logical,Normal
+"If a person is hungry, have they eaten recently?",No,ate,0.2857142857142857,0.41692665,0,"['ate', 'yes', 'recently', 'yes', 'no', 'yes', 'they ate on their way home .']",Logical,Normal
+"If all squares are rectangles, are all rectangles squares?",No,yes,0.7142857142857143,0.8477117,0,"['yes', 'no', 'no', 'no', 'yes', 'no', 'yes']",Logical,High-Confidence Error
+"If an exam is difficult, will everyone fail?",No,no,0.7142857142857143,0.8227876,1,"['no', 'no', 'no', 'no', 'i.', 'no', 'no']",Logical,Normal
+"If an object floats, is it necessarily light?",No,no,0.7142857142857143,0.92385584,1,"['no', 'no', 'no', 'no', 'yes', 'no', 'no']",Logical,Normal
+"If the power is out, can electronic devices operate normally?",No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Logical,Normal
+"If a number is prime, is it divisible only by 1 and itself?",Yes,no,0.5714285714285714,0.7061027,0,"['no', 'no', 'no', 'yes', 'it is not possible to tell', 'no', 'no']",Logical,Normal
+"If someone owns a car, can they necessarily drive?",No,yes,0.7142857142857143,0.9238557,0,"['yes', 'yes', 'yes', 'no', 'yes', 'yes', 'yes']",Logical,High-Confidence Error
+"If a statement is true, can it also be false?",No,no,0.7142857142857143,0.92385584,1,"['no', 'no', 'no', 'no', 'yes', 'no', 'no']",Logical,Normal
+"If a medicine works for one person, will it work for all?",No,yes,0.5714285714285714,0.63993555,0,"['yes', ""it can't be used by all"", 'no', 'no', 'yes', 'no', 'no']",Logical,Normal
+"If ice melts, does it become liquid water?",Yes,no,0.7142857142857143,0.92385584,0,"['no', 'yes', 'no', 'no', 'no', 'no', 'no']",Logical,High-Confidence Error
+Can a loan be approved if the borrower defaulted in the last 6 months?,No,no,0.7142857142857143,0.92385584,1,"['no', 'yes', 'no', 'no', 'no', 'no', 'no']",Policy,Normal
+Is a passport required for international travel?,Yes,no,0.7142857142857143,0.8477117,0,"['no', 'yes', 'yes', 'yes', 'no', 'no', 'no']",Policy,High-Confidence Error
+Can a minor legally sign a binding contract?,No,yes,0.5714285714285714,0.66081417,0,"['yes', 'no', 'yes', 'a few years old', 'yes', 'no', 'yes']",Policy,Normal
+Is wearing a seatbelt legally required in many countries?,Yes,no,0.8571428571428572,1.0,0,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Policy,High-Confidence Error
+Can someone vote without being a citizen?,No,no,0.7142857142857143,0.8477117,1,"['no', 'yes', 'yes', 'no', 'yes', 'no', 'yes']",Policy,Normal
+Is tax payment mandatory for employed individuals in most countries?,Yes,no,0.8571428571428572,1.0,0,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Policy,High-Confidence Error
+Can a company operate without registration?,No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Policy,Normal
+Is driving under the influence of alcohol legal?,No,yes,0.5714285714285714,0.6600715,0,"['yes', 'no', 'no', 'yes', 'yes', 'yes', 'a state law']",Policy,Normal
+Can an employee be paid below minimum wage legally?,No,no,0.5714285714285714,0.6675084,1,"['no', 'yes', 'minimum wage', 'no', 'no', 'no', 'no']",Policy,Normal
+Is data protection required when handling personal data?,Yes,yes,0.7142857142857143,0.8477117,1,"['yes', 'no', 'no', 'yes', 'no', 'no', 'yes']",Policy,Normal
+Can a bank open an account without identity verification?,No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Policy,Normal
+Is child labor permitted under labor laws?,No,yes,0.7142857142857143,0.8477117,0,"['yes', 'no', 'yes', 'yes', 'no', 'no', 'no']",Policy,High-Confidence Error
+Can a court verdict be appealed?,Yes,no,0.5714285714285714,0.7695163,0,"['no', 'no', 'no', 'no', 'no', 'yes', 'any']",Policy,High-Confidence Error
+Is insurance mandatory for motor vehicles in many countries?,Yes,no,0.7142857142857143,0.92385584,0,"['no', 'no', 'no', 'no', 'yes', 'no', 'no']",Policy,High-Confidence Error
+Can a student be expelled for academic misconduct?,Yes,yes,0.5714285714285714,0.6800038,1,"['yes', 'no', 'no', 'no', 'expulsion is not an option', 'no', 'no']",Policy,Normal
+Is bribery legal in public office?,No,yes,0.5714285714285714,0.61724716,0,"['yes', 'no', 'no', 'yes', 'no', 'yes', 'bribery is a form of money laundering']",Policy,Normal
+Can a visa expire?,Yes,yes,0.7142857142857143,0.8730931,1,"['yes', 'no', 'no', 'no', 'no', 'no', 'yes']",Policy,Normal
+Is consent required before collecting personal data?,Yes,Yes,0.0,0.40782064,1,"['Yes', 'Consent is required before a website can be viewed.', 'no', 'consent is required', 'consent is needed for a person to request to be given access to their personal information', 'consent is required before collecting personal data', 'consent is required in order for a firm to collect personal information.']",Policy,Normal
+Can a contract be enforced if signed under duress?,No,no,0.7142857142857143,0.873093,1,"['no', 'no', 'no', 'yes', 'no', 'yes', 'no']",Policy,Normal
+Is plagiarism acceptable in academic work?,No,No,0.4285714285714286,0.5540884,1,"['No', 'acceptable', 'No', 'acceptable', 'acceptable', 'unacceptable', 'Yes']",Policy,Normal
+Can intellectual property be legally protected?,Yes,yes,0.7142857142857143,0.8477117,1,"['yes', 'yes', 'no', 'no', 'yes', 'no', 'no']",Policy,Normal
+Is fraud considered a criminal offense?,Yes,no,0.7142857142857143,0.8730931,0,"['no', 'no', 'no', 'no', 'yes', 'yes', 'no']",Policy,High-Confidence Error
+Can a minor obtain a driver’s license?,No,yes,0.7142857142857143,0.8477117,0,"['yes', 'no', 'no', 'no', 'yes', 'no', 'yes']",Policy,High-Confidence Error
+Is freedom of speech unlimited in all jurisdictions?,No,no,0.7142857142857143,0.9238559,1,"['no', 'no', 'no', 'no', 'no', 'yes', 'no']",Policy,Normal
+Can laws change over time?,Yes,no,0.5714285714285714,0.6293762,0,"['no', 'A group of people are allowed to live in the same country as an individual.', 'yes', 'no', 'no', 'yes', 'no']",Policy,Normal
+Does inflation reduce purchasing power?,Yes,yes,0.7142857142857143,0.84771156,1,"['yes', 'yes', 'yes', 'no', 'yes', 'no', 'no']",Economic,Normal
+Can interest rates be negative?,Yes,yes,0.7142857142857143,0.87309295,1,"['yes', 'yes', 'no', 'yes', 'yes', 'no', 'yes']",Economic,Normal
+Does higher demand generally increase prices?,Yes,yes,0.7142857142857143,0.8477117,1,"['yes', 'yes', 'no', 'yes', 'no', 'no', 'no']",Economic,Normal
+Is scarcity a fundamental economic concept?,Yes,no,0.7142857142857143,0.7614905,0,"['no', 'no', 'no', 'no', 'it is not sustainable', 'no', 'no']",Economic,High-Confidence Error
+Does saving money always increase wealth?,No,yes,0.7142857142857143,0.8477117,0,"['yes', 'yes', 'no', 'no', 'no', 'no', 'yes']",Economic,High-Confidence Error
+Is unemployment measured as a percentage of the labor force?,Yes,no,0.8571428571428572,1.0,0,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Economic,High-Confidence Error
+Does diversification reduce investment risk?,Yes,no,0.4285714285714286,0.46003327,0,"['no', 'diversification can reduce risk.', 'no', 'yes', 'no', 'diversification of investments in a wide variety of countries and countries can reduce investment risk.', 'no']",Economic,Normal
+Is GDP a measure of economic output?,Yes,no,0.8571428571428572,1.0,0,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Economic,High-Confidence Error
+Does a budget deficit mean government revenue exceeds spending?,No,yes,0.7142857142857143,0.8477117,0,"['yes', 'yes', 'no', 'no', 'no', 'no', 'yes']",Economic,High-Confidence Error
+Is opportunity cost the value of the next best alternative?,Yes,a given number,0.5714285714285714,0.5551566,0,"['a given number', 'the world will never know', 'no', 'no', 'no', 'no', 'no']",Economic,Normal
+Can inflation occur without economic growth?,Yes,no,0.7142857142857143,0.92385584,0,"['no', 'no', 'yes', 'no', 'no', 'no', 'no']",Economic,High-Confidence Error
+Does monopoly reduce market competition?,Yes,no,0.7142857142857143,0.8730931,0,"['no', 'no', 'yes', 'no', 'no', 'no', 'yes']",Economic,High-Confidence Error
+Is supply independent of price?,No,no,0.5714285714285714,0.5631712,1,"['no', 'Price is an indicator of supply and demand.', 'no', 'price is the price of a product', 'no', 'no', 'no']",Economic,Normal
+Can taxes influence consumer behavior?,Yes,no,0.7142857142857143,0.873093,0,"['no', 'yes', 'no', 'yes', 'no', 'no', 'no']",Economic,High-Confidence Error
+Is money neutral in the short run?,No,no,0.2857142857142857,0.4005012,1,"['no', 'a negative correlation.', 'a negative cost', 'neutral, if the short-term market is positive (the short-term is positive).', 'no', 'no', 'negative']",Economic,Normal
+Does economic recession imply negative growth?,Yes,no,0.7142857142857143,0.8730931,0,"['no', 'yes', 'no', 'no', 'no', 'no', 'yes']",Economic,High-Confidence Error
+Is a higher interest rate likely to reduce borrowing?,Yes,a) it will increase interest rates,0.0,0.3572671,0,"['a) it will increase interest rates', 'no', 'the interest rate can be lower', 'decreases borrowing capacity', 'higher interest rates are likely to increase borrowing rates, and lower borrowing rates are likely to lead to a more conservative economy.', 'yes', 'a decrease in borrowing']",Economic,Normal
+Does price elasticity measure responsiveness to price changes?,Yes,no,0.5714285714285714,0.6279112,0,"['no', 'no', 'price elasticity measures price changes', 'no', 'yes', 'yes', 'no']",Economic,Normal
+Is trade beneficial to all parties involved?,No,it is considered a global commodity.,0.0,0.15264288,0,"['it is considered a global commodity.', 'it is a great opportunity for both sides', 'yes', 'trade in goods, a commodity that is traded, can create more jobs and increase incomes for both the owner and the buyer of the commodity.', ', a.', 'the United States', 'a trade in goods would change a country by changing its laws and regulations.']",Economic,Normal
+Can government spending stimulate an economy?,Yes,no,0.7142857142857143,0.92385584,0,"['no', 'yes', 'no', 'no', 'no', 'no', 'no']",Economic,High-Confidence Error
+Does inflation always harm the economy?,No,no,0.7142857142857143,0.92385584,1,"['no', 'yes', 'no', 'no', 'no', 'no', 'no']",Economic,Normal
+Is profit equal to revenue minus cost?,Yes,yes,0.7142857142857143,0.873093,1,"['yes', 'yes', 'yes', 'yes', 'yes', 'no', 'no']",Economic,Normal
+Can a currency depreciate?,Yes,no,0.7142857142857143,0.8477117,0,"['no', 'no', 'no', 'no', 'yes', 'yes', 'yes']",Economic,High-Confidence Error
+Is economic growth evenly distributed?,No,no,0.8571428571428572,1.0,1,"['no', 'no', 'no', 'no', 'no', 'no', 'no']",Economic,Normal
+Does productivity growth increase long-term output?,Yes,no,0.7142857142857143,0.8477117,0,"['no', 'yes', 'no', 'no', 'yes', 'yes', 'yes']",Economic,High-Confidence Error
